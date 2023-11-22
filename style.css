@@ -15,30 +15,31 @@ main {
   margin-left: auto;
 }
 .sottotitolo {
-  font-size: 14px;
+  font-size: 12px;
   color: rgb(35, 133, 172);
   width: 20%;
   margin-right: auto;
   margin-left: auto;
   background-color: rgb(255, 255, 201);
-  padding-top: 20px;
-  padding-left: 950px;
-  padding-bottom: 20px;
-  padding-right: 950px;
-  border-top: 1px orange;
+  padding-top: 15px;
+  padding-left: 830px;
+  padding-bottom: 15px;
+  padding-right: 830px;
+  border-top: 1px solid rgb(238, 156, 3);
 }
 li {
   margin-bottom: 1em;
 }
 .sally {
   color: rgb(173, 172, 172);
-  width: 20%;
+  text-align: center;
   margin-right: auto;
   margin-left: auto;
 }
 .b {
   margin: 0;
-  border-left: orange 1px;
+  border-left: 1px solid rgb(240, 157, 4);
+  font-size: 16px;
 }
 hr {
   border-top: 1px solid rgb(114, 215, 255);
@@ -48,12 +49,14 @@ hr {
 }
 h2 {
   font-weight: 400;
-}
-h1 {
+  margin-top: 1.5em;
 }
 li.noNum {
   list-style: none;
 }
 .i {
-  box-shadow: 5px 10px 8px #888888;
+  box-shadow: 6px 8px 6px #ebe7e7;
+}
+.t {
+  text-align: center;
 }
