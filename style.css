@@ -53,5 +53,7 @@ h1 {
 }
 li.noNum {
   list-style: none;
-  font-variant-numeric: 2;
+}
+.i {
+  box-shadow: 5px 10px 8px #888888;
 }
