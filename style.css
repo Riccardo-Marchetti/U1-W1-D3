@@ -51,8 +51,8 @@ h2 {
   font-weight: 400;
   margin-top: 1.5em;
 }
-li.noNum {
-  list-style: none;
+li.l {
+  list-style-type: none;
 }
 .i {
   box-shadow: 6px 8px 6px #ebe7e7;
